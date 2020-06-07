@@ -17,3 +17,5 @@ console.log(fun);
 
 const man={name:"Abul", phoneNo:546778};
 console.log(man.gf);
+
+// Null can be set by devolopers
